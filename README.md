@@ -41,3 +41,5 @@ The dashboard provides a visual summary of the company's overall sales performan
 - Investigate the reasons behind changes in revenue and profit over time.
 - Identify low-performing products and evaluate whether they need improved marketing, pricing adjustments, or discontinuation.
 - Maintain cost control to protect and potentially improve the overall profit margin.
+
+![sales performance dashboard](Dashboardd.png)
